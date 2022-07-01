@@ -5,7 +5,9 @@
   },
   "compilerOptions": {
     "outDir": "./dist",
+    "rootDir": "./src",
     "sourceMap": true,
+    "declaration": true,
     "preserveConstEnums": true,
     "strictNullChecks": true,
     "types": ["jest", "node"],
