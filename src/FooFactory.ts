@@ -1,4 +1,4 @@
-import BarFactory from "./BarFactory"
+import BarFactory from "./BarFactory.js"
 
 export default abstract class FooFactory {
   static BAR = 1
